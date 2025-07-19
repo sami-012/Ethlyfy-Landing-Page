@@ -32,7 +32,7 @@ The page layout adapts perfectly across all devices:
 
 ## 🔗 Live Demo
 
-👉 **[View Live Demo](https://your-live-demo-link.com)**  
+👉 **[View Live Demo](https://sami-012.github.io/Ethlyfy-Landing-Page/)**  
 _Replace this with your deployed website URL._
 
 ---
