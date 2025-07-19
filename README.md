@@ -42,9 +42,9 @@ _Replace this with your deployed website URL._
 **Muhammad Sami ur Rahman**  
 Full Stack Web Developer | UI/UX Enthusiast
 
-- 🌐 Website: [Elite WebWorks](https://elite-webworks.com)  
-- 📧 Email: youremail@example.com  
-- 🐙 GitHub: [@your-github](https://github.com/your-github)
+- 🌐 Linkedin: [Muhammad Sami ur Rahman](https://www.linkedin.com/in/sami-ur-rahman-developer/)  
+- 📧 Email: sami583828@gmail.com  
+- 🐙 GitHub: [@sami-012](https://github.com/sami-012)
 
 ---
 
